@@ -1,7 +1,7 @@
 # Ping-Pong
 Juego clásico diseñado en java
 
-Juego creado para dos jugadores, totalmente diseñado por java.
+Juego creado para dos jugadores, totalmente diseñado en java.
 
 (el codigo tiene todas la especificaciones para el entendimiento y arranque del codigo)
 
